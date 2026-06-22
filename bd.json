@@ -1,0 +1,16 @@
+[
+    {
+        "nome": "Pipoca",
+        "data_nasc": "20/12/2010",
+        "cpf": 12345678900,
+        "email": "pipoca@gmail.com",
+        "senha": "fu123"
+    },
+    {
+        "nome": "Isadora",
+        "data_nasc": "03/05/2010",
+        "cpf": 12345678901,
+        "email": "isax@gmail.com",
+        "senha": "ci123"
+    }
+]
