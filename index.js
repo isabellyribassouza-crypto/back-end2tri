@@ -1,7 +1,5 @@
 // npm init
 // npm i express
-// npm init
-// npm i express
 // instalar extensão RapidAPI Client no VSCode
 const express = require("express")
 const app = express()
